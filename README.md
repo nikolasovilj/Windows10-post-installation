@@ -3,6 +3,9 @@
 Either run the ```script.ps1``` or use the code snippets from this README.md
 
 ***
+![image](https://github.com/nikolasovilj/Windows10-post-installation/assets/23420051/33575572-4f92-44da-aa6a-b4fd0843e78d)
+![image](https://github.com/nikolasovilj/Windows10-post-installation/assets/23420051/75a01c42-7a01-4f52-9170-50be38fe488c)
+
 
 TODO:
 - [ ] cleanup/speedup procedures
