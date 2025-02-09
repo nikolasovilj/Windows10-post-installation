@@ -46,15 +46,15 @@ TODO:
 1. Instaliraj Terminal aplikaciju
 
 1. Date time/format/keyboard layout
-1.1. Pod preferred languages instaliraj Croatian
-1.1. Promijeni Regional Format u Croatian
-1.1. Instaliraj srpski radi keyboard layouta
+  1. Pod preferred languages instaliraj Croatian
+  1. Promijeni Regional Format u Croatian
+  1. Instaliraj srpski radi keyboard layouta
 
 1. Upali clipboard history (Win + V)
 1. Instaliraj Office
 
 1. Microsoft Defender Application Guard (Turn Windows feature on or off)
-1.1. Podesi postavke - dozvoli copy paste
+  1. Podesi postavke - dozvoli copy paste
 
 1. Sandbox (Turn Windows feature on or off)
 1. Windows Security -> Device Security -> Core isolation -> Memory Integrity -> On
